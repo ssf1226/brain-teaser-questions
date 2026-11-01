@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1977861de97ee2dda109ea9a45e69d3751b4285b08f426e466f570e35f4a6d8f",
+  "version": "5e8fe1d8af5e55c4035eef82cc4c6a336f456706c6a54fe176988424adc1caa4",
   "questions": [
     {
       "id": "q_animal_004",
@@ -11993,7 +11993,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1278",
+      "id": "q_life_1278_v2",
       "ageGroup": "3-5",
       "category": "life",
       "question": "什么水永远用不完？",
@@ -12021,7 +12021,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1190",
+      "id": "q_food_1190_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "土豆捅了包子致命一刀，变成了什么？",
@@ -12049,7 +12049,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1279",
+      "id": "q_life_1279_v2",
       "ageGroup": "6-8",
       "category": "life",
       "question": "什么酒不能喝？",
@@ -12063,7 +12063,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1280",
+      "id": "q_life_1280_v2",
       "ageGroup": "6-8",
       "category": "life",
       "question": "什么东西越剥越大？",
@@ -12161,7 +12161,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1177",
+      "id": "q_nature_1177_v2",
       "ageGroup": "3-5",
       "category": "nature",
       "question": "什么东西掉进水里不会湿？",
@@ -12175,7 +12175,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1284",
+      "id": "q_life_1284_v2",
       "ageGroup": "6-8",
       "category": "life",
       "question": "什么时候开口说话要付钱？",
@@ -12203,7 +12203,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1178",
+      "id": "q_nature_1178_v2",
       "ageGroup": "6-8",
       "category": "nature",
       "question": "什么东西人们在不停地吃它，却永远吃不饱？",
@@ -12301,7 +12301,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1317",
+      "id": "q_animal_1317_v2",
       "ageGroup": "6-8",
       "category": "animal",
       "question": "毛毛虫回到家，对爸爸说了一句话，爸爸即场晕倒，毛毛虫说了什么话？",
@@ -12329,7 +12329,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1318",
+      "id": "q_animal_1318_v2",
       "ageGroup": "6-8",
       "category": "animal",
       "question": "把一只鸡和一只鹅同时放在冰箱里，为什么鸡死了鹅没死？",
@@ -12343,7 +12343,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1319",
+      "id": "q_animal_1319_v2",
       "ageGroup": "6-8",
       "category": "animal",
       "question": "万兽大王是谁？",
@@ -12497,7 +12497,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1230",
+      "id": "q_number_1230_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "一只候鸟从南方飞到北方要用一个小时，而从北方飞到南方则需两个半小时，为什么呢？",
@@ -12567,7 +12567,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1179",
+      "id": "q_nature_1179_v2",
       "ageGroup": "6-8",
       "category": "nature",
       "question": "什么时候看到的月亮最大？",
@@ -12651,7 +12651,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1180",
+      "id": "q_nature_1180_v2",
       "ageGroup": "9-10",
       "category": "nature",
       "question": "为什么暑假一定比寒假长？",
@@ -12665,7 +12665,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1320",
+      "id": "q_animal_1320_v2",
       "ageGroup": "6-8",
       "category": "animal",
       "question": "为什么游泳比赛中青蛙输给了狗？",
@@ -12679,7 +12679,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1321",
+      "id": "q_animal_1321_v2",
       "ageGroup": "6-8",
       "category": "animal",
       "question": "一只狗总也不洗澡，为什么不生虱子？",
@@ -12721,7 +12721,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1181",
+      "id": "q_nature_1181_v2",
       "ageGroup": "6-8",
       "category": "nature",
       "question": "邻居老李家的屋顶为什么有时漏雨，有时不漏雨？",
@@ -12959,7 +12959,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1182",
+      "id": "q_nature_1182_v2",
       "ageGroup": "6-8",
       "category": "nature",
       "question": "一年四季都盛开的花是什么花？",
@@ -12973,7 +12973,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1183",
+      "id": "q_nature_1183_v2",
       "ageGroup": "9-10",
       "category": "nature",
       "question": "一个圆孔的直径只有1厘米，而体积达100立方米的物体能顺利通过这个孔，那它是什么？",
@@ -13057,7 +13057,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1326",
+      "id": "q_animal_1326_v2",
       "ageGroup": "9-10",
       "category": "animal",
       "question": "请你把九匹马平均放在十个马圈里，并让每个马圈里的马的数目都相同，怎么办？",
@@ -13085,7 +13085,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1192",
+      "id": "q_food_1192_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "满满一瓶牛奶，怎样才能先喝到瓶底的部分？",
@@ -13113,7 +13113,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1231",
+      "id": "q_number_1231_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "一个数字去掉前面第一个数字是13，去掉最后一个数字是40，原数是多少？",
@@ -13197,7 +13197,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1232",
+      "id": "q_number_1232_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "123456789哪个数字最勤劳，哪个数字最懒惰？",
@@ -13295,7 +13295,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1233",
+      "id": "q_number_1233_v2",
       "ageGroup": "6-8",
       "category": "number",
       "question": "在什么时候1+2不等于3？",
@@ -13645,7 +13645,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1195",
+      "id": "q_food_1195_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么鸡不能吃？",
@@ -13659,7 +13659,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1196",
+      "id": "q_food_1196_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么牛不能吃？",
@@ -13673,7 +13673,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1197",
+      "id": "q_food_1197_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么兔不能吃？",
@@ -13687,7 +13687,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1198",
+      "id": "q_food_1198_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么龙不能吃？",
@@ -13701,7 +13701,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1199",
+      "id": "q_food_1199_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么花不能吃？",
@@ -13715,7 +13715,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1200",
+      "id": "q_food_1200_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么蒜不能吃？",
@@ -13729,7 +13729,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1201",
+      "id": "q_food_1201_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么盐不能吃？",
@@ -13743,7 +13743,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1202",
+      "id": "q_food_1202_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么油不能点燃？",
@@ -13953,7 +13953,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1203",
+      "id": "q_food_1203_v2",
       "ageGroup": "3-5",
       "category": "food",
       "question": "什么东西扁扁的，能当早饭却不是盘子？",
@@ -14009,7 +14009,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1185",
+      "id": "q_nature_1185_v2",
       "ageGroup": "3-5",
       "category": "nature",
       "question": "什么东西是蓝色的，高高挂在天上？",
@@ -14032,12 +14032,12 @@
       "hint": "红烧茄子。",
       "difficulty": 1,
       "reading": "家长陪读",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1206",
+      "id": "q_food_1206_v2",
       "ageGroup": "3-5",
       "category": "food",
       "question": "什么东西是橙色的，吃起来脆脆甜甜？",
@@ -14051,7 +14051,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1207",
+      "id": "q_food_1207_v2",
       "ageGroup": "3-5",
       "category": "food",
       "question": "什么东西圆圆的，吃起来沙甜沙甜的？",
@@ -14135,7 +14135,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1186",
+      "id": "q_nature_1186_v2",
       "ageGroup": "3-5",
       "category": "nature",
       "question": "什么东西白白的，飘在天空中？",
@@ -14597,7 +14597,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1210",
+      "id": "q_food_1210_v2",
       "ageGroup": "3-5",
       "category": "food",
       "question": "什么东西打破了才能吃？",
@@ -14905,7 +14905,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1187",
+      "id": "q_nature_1187_v2",
       "ageGroup": "6-8",
       "category": "nature",
       "question": "迄今为止，你所见到的最大的影子是什么？",
@@ -14961,7 +14961,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1188",
+      "id": "q_nature_1188_v2",
       "ageGroup": "6-8",
       "category": "nature",
       "question": "网要什么时候可以提水？",
@@ -14989,7 +14989,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1234",
+      "id": "q_number_1234_v2",
       "ageGroup": "6-8",
       "category": "number",
       "question": "三个孩子吃三个饼要用3分钟，九十个孩子九十个饼要用多少时间？",
@@ -15059,7 +15059,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1235",
+      "id": "q_number_1235_v2",
       "ageGroup": "6-8",
       "category": "number",
       "question": "张大妈整天说个不停，可有一个月她说话最少，那是哪个月？",
@@ -15129,7 +15129,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1189",
+      "id": "q_nature_1189_v2",
       "ageGroup": "9-10",
       "category": "nature",
       "question": "黄河上有两座桥，一高一低，这两座桥都被接连而来的三次洪水淹没了。高桥被淹了三次，低桥只被淹了一次，这是为什么？",
@@ -15157,7 +15157,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1237",
+      "id": "q_number_1237_v2",
       "ageGroup": "6-8",
       "category": "number",
       "question": "小红口袋里原有10个铜钱，但它们都掉了，请问小红口袋里还剩下什么？",
@@ -15171,7 +15171,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1238",
+      "id": "q_number_1238_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "海关大钟一昼夜时针和分针重合多少次？",
@@ -15185,7 +15185,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1239",
+      "id": "q_number_1239_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "一条小船要渡37人，一次只能有7人，几次能渡完？",
@@ -15213,7 +15213,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1240",
+      "id": "q_number_1240_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "小丽和妈妈买了8个苹果，妈妈让小丽把这些苹果装进5个口袋中，每个口袋里都是双数，怎么装？",
@@ -15241,7 +15241,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1241",
+      "id": "q_number_1241_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "某人花19块钱买了个玩具，20块钱卖出去，又花21块钱买回来，22块钱卖出去。请问他赚了多少钱？",
@@ -15269,7 +15269,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1242",
+      "id": "q_number_1242_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "什么时候四减一等于五？",
@@ -15325,7 +15325,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1190",
+      "id": "q_nature_1190_v2",
       "ageGroup": "9-10",
       "category": "nature",
       "question": "船边挂着软梯，离海面2米，海水每小时上涨半米，几小时海水能淹没软梯？",
