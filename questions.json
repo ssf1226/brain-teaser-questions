@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "c40ceecf19167dedfbc93cc93e0d9166b4df60efb1b39515e2f40ab9743eb5d8",
+  "version": "c4c179b51ab75cf34206edc854d76a3ffa703bfdf2968d1cb947b8f107ea2155",
   "questions": [
     {
       "id": "q_animal_004",
@@ -55,7 +55,6 @@
         "q_animal_536",
         "q_life_718",
         "q_life_757",
-        "q_food_1193",
         "q_animal_1034",
         "q_animal_1242",
         "q_animal_1105"
@@ -165,7 +164,6 @@
         "q_life_620",
         "q_logic_1013",
         "q_logic_1062",
-        "q_life_1277",
         "q_life_689",
         "q_word_1082",
         "q_life_1196"
@@ -235,8 +233,7 @@
       "status": "active",
       "legacyIds": [
         "q_food_1090",
-        "q_food_1187",
-        "q_food_1211"
+        "q_food_1187"
       ],
       "legacyQuestions": [
         "客人送来一篮草莓，妈妈却说家里没有草莓，为什么？",
@@ -282,7 +279,6 @@
         "q_food_1175"
       ],
       "legacyQuestions": [
-        "一年四季都盛开的花是什么花？",
         "一年四季都开的花是什么花？",
         "一年四季开不败的花？",
         "一年四季都开的花？",
@@ -717,8 +713,7 @@
         "q_animal_1019",
         "q_animal_1230",
         "q_animal_1090",
-        "q_animal_1293",
-        "q_animal_1322"
+        "q_animal_1293"
       ],
       "legacyQuestions": [
         "什么动物最容易摔倒？",
@@ -847,8 +842,7 @@
         "q_life_654",
         "q_number_1035",
         "q_life_1022",
-        "q_word_1190",
-        "q_word_1211"
+        "q_word_1190"
       ],
       "legacyQuestions": [
         "\"新华字典\"有多少个字？",
@@ -874,8 +868,7 @@
         "q_word_123",
         "q_logic_1045",
         "q_word_937",
-        "q_logic_1166",
-        "q_word_1209"
+        "q_logic_1166"
       ],
       "legacyQuestions": [
         "你能以最快速度把冰变成水吗？",
@@ -1127,8 +1120,7 @@
         "q_number_1015",
         "q_number_1031",
         "q_number_1083",
-        "q_number_1167",
-        "q_number_1236"
+        "q_number_1167"
       ],
       "legacyQuestions": [
         "3个孩子吃3个饼用3分钟，90个孩子吃90个饼用多少时间？",
@@ -1162,7 +1154,6 @@
       ],
       "legacyQuestions": [
         "一个数去掉第一个数是13，去掉最后一个数是40，这个数是多少？",
-        "一个数字去掉前面第一个数字是13，去掉最后一个数字是40，原数是多少？",
         "一个数去掉第一个数是13去掉最后一个数是40这个数是多少？",
         "一个数去掉首位是13，去掉末位是40，这个数是几？"
       ]
@@ -2448,7 +2439,6 @@
         "q_life_627",
         "q_life_1157",
         "q_life_1223",
-        "q_life_1281",
         "q_life_696",
         "q_word_1113"
       ],
@@ -2848,8 +2838,7 @@
       "legacyIds": [
         "q_food_1176",
         "q_nature_1032",
-        "q_nature_1073",
-        "q_nature_1184"
+        "q_nature_1073"
       ],
       "legacyQuestions": [
         "什么花没有叶？",
@@ -2919,8 +2908,7 @@
       "reading": "可自主读题",
       "status": "active",
       "legacyIds": [
-        "q_animal_1247",
-        "q_animal_1324"
+        "q_animal_1247"
       ],
       "legacyQuestions": [
         "麒麟到了北极会变成什么？",
@@ -3449,9 +3437,7 @@
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [
-        "q_life_1282"
-      ],
+      "legacyIds": [],
       "legacyQuestions": [
         "汽车右转弯时，哪个轮胎不转？",
         "汽车右转哪个轮胎不转？"
@@ -3979,8 +3965,7 @@
       "reading": "可自主读题",
       "status": "active",
       "legacyIds": [
-        "q_animal_1296",
-        "q_animal_1323"
+        "q_animal_1296"
       ],
       "legacyQuestions": [
         "有一只鲨鱼吃下一颗绿豆，变成了什么？",
@@ -4067,7 +4052,6 @@
         "q_word_1192"
       ],
       "legacyQuestions": [
-        "布和纸怕什么？",
         "布和纸最怕什么？"
       ]
     },
@@ -4210,9 +4194,7 @@
       "difficulty": 3,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [
-        "q_word_1212"
-      ],
+      "legacyIds": [],
       "legacyQuestions": [
         "哪个连的人比一般连队多得多？",
         "哪个连人最多？"
@@ -5128,7 +5110,6 @@
         "q_food_1040",
         "q_food_1074",
         "q_food_1084",
-        "q_food_1191",
         "q_food_1233"
       ],
       "legacyQuestions": [
@@ -5240,8 +5221,7 @@
       "reading": "可自主读题",
       "status": "active",
       "legacyIds": [
-        "q_number_1044",
-        "q_word_1210"
+        "q_number_1044"
       ],
       "legacyQuestions": [
         "太平洋的中间是什么？",
@@ -5291,9 +5271,9 @@
       "ageGroup": "6-8",
       "category": "number",
       "question": "把上下两个圆圈拼成的数字8，从腰部横着分开，两部分分别像哪个数字？",
-      "answer": "0",
-      "explanation": "这是观察字形，不是在做8除以2的运算。",
-      "hint": "别急着按字面猜，留意题目里的条件和词语。",
+      "answer": "上、下两部分都是 0",
+      "explanation": "把 8 从腰部横着分开，上面是一个圆圈、下面也是一个圆圈，两个都像 0。这题看的是字形，不是把 8 除以 2。",
+      "hint": "横着切开，每一半都是一个完整的圆圈。",
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
@@ -5547,9 +5527,9 @@
       "ageGroup": "6-8",
       "category": "number",
       "question": "成语玩笑：“一不做，二不休”里，哪个数字不肯动手，哪个不肯休息？",
-      "answer": "一不做，二不休",
-      "explanation": "借成语的字面意思拟人化数字，不是在判断真正的勤劳。",
-      "hint": "别急着按字面猜，留意题目里的条件和词语。",
+      "answer": "一不肯动手，二不肯休息",
+      "explanation": "成语里的「一」懒得做事，「二」不肯停下休息。题目把数字当成两个偷懒的小朋友，问的是它们各自的毛病。",
+      "hint": "把「做」和「休」当成两个数字的小毛病。",
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
@@ -5646,7 +5626,6 @@
       "status": "active",
       "legacyIds": [
         "q_food_1005",
-        "q_food_1194",
         "q_food_1038"
       ],
       "legacyQuestions": [
@@ -5943,7 +5922,6 @@
       "legacyIds": [
         "q_animal_1033",
         "q_animal_1104",
-        "q_animal_1316",
         "q_animal_1287"
       ],
       "legacyQuestions": [
@@ -6032,8 +6010,7 @@
       "legacyIds": [
         "q_food_1021",
         "q_food_1158",
-        "q_food_1054",
-        "q_food_1209"
+        "q_food_1054"
       ],
       "legacyQuestions": [
         "什么东西你吃了会开心？",
@@ -6876,7 +6853,6 @@
       "status": "active",
       "legacyIds": [
         "q_animal_1275",
-        "q_animal_1325",
         "q_animal_1284",
         "q_animal_1306"
       ],
@@ -6917,8 +6893,7 @@
       "status": "active",
       "legacyIds": [
         "q_life_1144",
-        "q_logic_1103",
-        "q_life_1285"
+        "q_logic_1103"
       ],
       "legacyQuestions": [
         "动物园里最先看到的动物是什么？",
@@ -6938,9 +6913,7 @@
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [
-        "q_food_1205"
-      ],
+      "legacyIds": [],
       "legacyQuestions": [
         "米粒的外公是谁？",
         "米的外公是谁？"
@@ -6958,8 +6931,7 @@
       "reading": "家长陪读",
       "status": "active",
       "legacyIds": [
-        "q_logic_1190",
-        "q_life_1283"
+        "q_logic_1190"
       ],
       "legacyQuestions": [
         "拿鸡蛋扔石头，为什么鸡蛋没破？",
@@ -7077,9 +7049,7 @@
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [
-        "q_food_1204"
-      ],
+      "legacyIds": [],
       "legacyQuestions": [
         "米的妈妈是谁？",
         "米的爸爸是谁？"
@@ -7102,8 +7072,7 @@
       ],
       "legacyQuestions": [
         "红豆家的小孩是谁？",
-        "红豆生南国，红豆家的小孩是谁？",
-        "红豆的小孩是谁？"
+        "红豆生南国，红豆家的小孩是谁？"
       ]
     },
     {
@@ -8976,9 +8945,7 @@
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [
-        "q_word_1208"
-      ],
+      "legacyIds": [],
       "legacyQuestions": [
         "人在云上走，打一字？",
         "一人在云上。打一字？"
@@ -9491,9 +9458,7 @@
       "reading": "可自主读题",
       "status": "active",
       "legacyIds": [],
-      "legacyQuestions": [
-        "铅笔姓什么？"
-      ]
+      "legacyQuestions": []
     },
     {
       "id": "q_word_1087",
@@ -9651,8 +9616,7 @@
         "q_animal_1295"
       ],
       "legacyQuestions": [
-        "猩猩最讨厌什么线？",
-        "猴子最讨厌什么线？"
+        "猩猩最讨厌什么线？"
       ]
     },
     {
@@ -9749,9 +9713,7 @@
       "difficulty": 1,
       "reading": "家长陪读",
       "status": "active",
-      "legacyIds": [
-        "q_food_1208"
-      ],
+      "legacyIds": [],
       "legacyQuestions": [
         "哪种花最不值钱？",
         "哪种花最不值钱却能吃？"
@@ -11806,7 +11768,7 @@
       "hint": "想想哪个身份过了一夜就变了。",
       "difficulty": 2,
       "reading": "可自主读题",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
@@ -12250,7 +12212,7 @@
       "category": "life",
       "question": "什么事天不知地知，你不知我知？",
       "answer": "鞋底破了",
-      "explanation": "鞋底破了踩在地上地知道，天不知道；自己不知道？不对——是自己知道。再想：鞋底破了，天不知地知，你不知我知——是鞋底的洞。",
+      "explanation": "鞋底磨破了，别人看不出来，只有穿鞋的自己知道；走在路上，地面却感受得到。所以是「天不知、地知、你不知、我知」。",
       "hint": "低头看看你的鞋子。",
       "difficulty": 2,
       "reading": "自主阅读",
@@ -12352,7 +12314,7 @@
       "hint": "谁管着动物园里的所有动物？",
       "difficulty": 1,
       "reading": "自主阅读",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
@@ -12366,7 +12328,7 @@
       "hint": "揭开谜底用什么？",
       "difficulty": 1,
       "reading": "自主阅读",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
@@ -14802,7 +14764,7 @@
       "hint": "探病时通常说什么祝福？",
       "difficulty": 2,
       "reading": "自主阅读",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
@@ -15012,7 +14974,7 @@
       "hint": "去哪里要敲门？",
       "difficulty": 1,
       "reading": "自主阅读",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
@@ -15194,7 +15156,7 @@
       "hint": "每次实际送几人？",
       "difficulty": 2,
       "reading": "自主阅读",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
@@ -15250,7 +15212,7 @@
       "hint": "分两次算。",
       "difficulty": 2,
       "reading": "自主阅读",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
@@ -15278,7 +15240,7 @@
       "hint": "切角后形状怎么变？",
       "difficulty": 2,
       "reading": "自主阅读",
-      "status": "active",
+      "status": "disabled",
       "legacyIds": [],
       "legacyQuestions": []
     },
