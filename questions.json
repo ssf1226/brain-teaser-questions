@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "9b59133af6bf23ca9f001d6da29d3dbc5fe32796b40e6cda2fa1e170f8c9cd4e",
+  "version": "1977861de97ee2dda109ea9a45e69d3751b4285b08f426e466f570e35f4a6d8f",
   "questions": [
     {
       "id": "q_animal_004",
@@ -55,6 +55,7 @@
         "q_animal_536",
         "q_life_718",
         "q_life_757",
+        "q_food_1193",
         "q_animal_1034",
         "q_animal_1242",
         "q_animal_1105"
@@ -164,6 +165,7 @@
         "q_life_620",
         "q_logic_1013",
         "q_logic_1062",
+        "q_life_1277",
         "q_life_689",
         "q_word_1082",
         "q_life_1196"
@@ -233,7 +235,8 @@
       "status": "active",
       "legacyIds": [
         "q_food_1090",
-        "q_food_1187"
+        "q_food_1187",
+        "q_food_1211"
       ],
       "legacyQuestions": [
         "客人送来一篮草莓，妈妈却说家里没有草莓，为什么？",
@@ -714,7 +717,8 @@
         "q_animal_1019",
         "q_animal_1230",
         "q_animal_1090",
-        "q_animal_1293"
+        "q_animal_1293",
+        "q_animal_1322"
       ],
       "legacyQuestions": [
         "什么动物最容易摔倒？",
@@ -843,7 +847,8 @@
         "q_life_654",
         "q_number_1035",
         "q_life_1022",
-        "q_word_1190"
+        "q_word_1190",
+        "q_word_1211"
       ],
       "legacyQuestions": [
         "\"新华字典\"有多少个字？",
@@ -869,7 +874,8 @@
         "q_word_123",
         "q_logic_1045",
         "q_word_937",
-        "q_logic_1166"
+        "q_logic_1166",
+        "q_word_1209"
       ],
       "legacyQuestions": [
         "你能以最快速度把冰变成水吗？",
@@ -1121,7 +1127,8 @@
         "q_number_1015",
         "q_number_1031",
         "q_number_1083",
-        "q_number_1167"
+        "q_number_1167",
+        "q_number_1236"
       ],
       "legacyQuestions": [
         "3个孩子吃3个饼用3分钟，90个孩子吃90个饼用多少时间？",
@@ -2441,6 +2448,7 @@
         "q_life_627",
         "q_life_1157",
         "q_life_1223",
+        "q_life_1281",
         "q_life_696",
         "q_word_1113"
       ],
@@ -2840,7 +2848,8 @@
       "legacyIds": [
         "q_food_1176",
         "q_nature_1032",
-        "q_nature_1073"
+        "q_nature_1073",
+        "q_nature_1184"
       ],
       "legacyQuestions": [
         "什么花没有叶？",
@@ -2910,7 +2919,8 @@
       "reading": "可自主读题",
       "status": "active",
       "legacyIds": [
-        "q_animal_1247"
+        "q_animal_1247",
+        "q_animal_1324"
       ],
       "legacyQuestions": [
         "麒麟到了北极会变成什么？",
@@ -3439,7 +3449,9 @@
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [],
+      "legacyIds": [
+        "q_life_1282"
+      ],
       "legacyQuestions": [
         "汽车右转弯时，哪个轮胎不转？",
         "汽车右转哪个轮胎不转？"
@@ -3967,7 +3979,8 @@
       "reading": "可自主读题",
       "status": "active",
       "legacyIds": [
-        "q_animal_1296"
+        "q_animal_1296",
+        "q_animal_1323"
       ],
       "legacyQuestions": [
         "有一只鲨鱼吃下一颗绿豆，变成了什么？",
@@ -4197,7 +4210,9 @@
       "difficulty": 3,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [],
+      "legacyIds": [
+        "q_word_1212"
+      ],
       "legacyQuestions": [
         "哪个连的人比一般连队多得多？",
         "哪个连人最多？"
@@ -5113,6 +5128,7 @@
         "q_food_1040",
         "q_food_1074",
         "q_food_1084",
+        "q_food_1191",
         "q_food_1233"
       ],
       "legacyQuestions": [
@@ -5224,7 +5240,8 @@
       "reading": "可自主读题",
       "status": "active",
       "legacyIds": [
-        "q_number_1044"
+        "q_number_1044",
+        "q_word_1210"
       ],
       "legacyQuestions": [
         "太平洋的中间是什么？",
@@ -5629,6 +5646,7 @@
       "status": "active",
       "legacyIds": [
         "q_food_1005",
+        "q_food_1194",
         "q_food_1038"
       ],
       "legacyQuestions": [
@@ -5925,6 +5943,7 @@
       "legacyIds": [
         "q_animal_1033",
         "q_animal_1104",
+        "q_animal_1316",
         "q_animal_1287"
       ],
       "legacyQuestions": [
@@ -6013,7 +6032,8 @@
       "legacyIds": [
         "q_food_1021",
         "q_food_1158",
-        "q_food_1054"
+        "q_food_1054",
+        "q_food_1209"
       ],
       "legacyQuestions": [
         "什么东西你吃了会开心？",
@@ -6856,6 +6876,7 @@
       "status": "active",
       "legacyIds": [
         "q_animal_1275",
+        "q_animal_1325",
         "q_animal_1284",
         "q_animal_1306"
       ],
@@ -6896,7 +6917,8 @@
       "status": "active",
       "legacyIds": [
         "q_life_1144",
-        "q_logic_1103"
+        "q_logic_1103",
+        "q_life_1285"
       ],
       "legacyQuestions": [
         "动物园里最先看到的动物是什么？",
@@ -6916,7 +6938,9 @@
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [],
+      "legacyIds": [
+        "q_food_1205"
+      ],
       "legacyQuestions": [
         "米粒的外公是谁？",
         "米的外公是谁？"
@@ -6934,7 +6958,8 @@
       "reading": "家长陪读",
       "status": "active",
       "legacyIds": [
-        "q_logic_1190"
+        "q_logic_1190",
+        "q_life_1283"
       ],
       "legacyQuestions": [
         "拿鸡蛋扔石头，为什么鸡蛋没破？",
@@ -7052,7 +7077,9 @@
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [],
+      "legacyIds": [
+        "q_food_1204"
+      ],
       "legacyQuestions": [
         "米的妈妈是谁？",
         "米的爸爸是谁？"
@@ -8949,7 +8976,9 @@
       "difficulty": 2,
       "reading": "可自主读题",
       "status": "active",
-      "legacyIds": [],
+      "legacyIds": [
+        "q_word_1208"
+      ],
       "legacyQuestions": [
         "人在云上走，打一字？",
         "一人在云上。打一字？"
@@ -9720,7 +9749,9 @@
       "difficulty": 1,
       "reading": "家长陪读",
       "status": "active",
-      "legacyIds": [],
+      "legacyIds": [
+        "q_food_1208"
+      ],
       "legacyQuestions": [
         "哪种花最不值钱？",
         "哪种花最不值钱却能吃？"
@@ -11948,7 +11979,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1277",
+      "id": "q_life_1277_v2",
       "ageGroup": "6-8",
       "category": "life",
       "question": "打破了什么人人都叫好？",
@@ -11976,7 +12007,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_word_1208",
+      "id": "q_word_1208_v2",
       "ageGroup": "6-8",
       "category": "word",
       "question": "什么蛋打不烂、煮不熟、更不能吃？",
@@ -12004,7 +12035,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_word_1209",
+      "id": "q_word_1209_v2",
       "ageGroup": "3-5",
       "category": "word",
       "question": "冬瓜、黄瓜、西瓜、南瓜都能吃，什么瓜不能吃？",
@@ -12046,7 +12077,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_word_1210",
+      "id": "q_word_1210_v2",
       "ageGroup": "6-8",
       "category": "word",
       "question": "什么星不会闪？",
@@ -12060,7 +12091,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_word_1211",
+      "id": "q_word_1211_v2",
       "ageGroup": "6-8",
       "category": "word",
       "question": "什么光不会亮？",
@@ -12074,7 +12105,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1281",
+      "id": "q_life_1281_v2",
       "ageGroup": "3-5",
       "category": "life",
       "question": "早晨醒来，每个人都要做的第一件事是什么？",
@@ -12088,7 +12119,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1282",
+      "id": "q_life_1282_v2",
       "ageGroup": "6-8",
       "category": "life",
       "question": "用什么拖地最干净？",
@@ -12102,7 +12133,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1283",
+      "id": "q_life_1283_v2",
       "ageGroup": "6-8",
       "category": "life",
       "question": "一个人从飞机上掉下来，为什么没摔死？",
@@ -12116,7 +12147,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_word_1212",
+      "id": "q_word_1212_v2",
       "ageGroup": "6-8",
       "category": "word",
       "question": "冬天里，不通过加热，如何才能把冰立刻变成水？",
@@ -12158,7 +12189,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1316",
+      "id": "q_animal_1316_v2",
       "ageGroup": "3-5",
       "category": "animal",
       "question": "什么动物你打死了它，却流了你的血？",
@@ -12186,7 +12217,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_life_1285",
+      "id": "q_life_1285_v2",
       "ageGroup": "6-8",
       "category": "life",
       "question": "小明知道试卷的答案，为什么还频频看同学的？",
@@ -12676,7 +12707,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1322",
+      "id": "q_animal_1322_v2",
       "ageGroup": "9-10",
       "category": "animal",
       "question": "农夫养10头牛，只有19只角，为什么？",
@@ -12704,7 +12735,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1323",
+      "id": "q_animal_1323_v2",
       "ageGroup": "6-8",
       "category": "animal",
       "question": "为什么两只老虎打架，非要拼个你死我活决不罢休？",
@@ -12718,7 +12749,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1324",
+      "id": "q_animal_1324_v2",
       "ageGroup": "6-8",
       "category": "animal",
       "question": "大灰狼拖走了羊妈妈，小羊为什么也不声不响地跟了去？",
@@ -12774,7 +12805,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1191",
+      "id": "q_food_1191_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "盆里有六只馒头，六个小朋友每人分到一只，但盆里还留着一只，为什么？",
@@ -12956,7 +12987,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_animal_1325",
+      "id": "q_animal_1325_v2",
       "ageGroup": "6-8",
       "category": "animal",
       "question": "什么动物没有方向感？",
@@ -13222,7 +13253,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_nature_1184",
+      "id": "q_nature_1184_v2",
       "ageGroup": "6-8",
       "category": "nature",
       "question": "星星、月亮、太阳哪一个是哑巴？",
@@ -13334,7 +13365,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1193",
+      "id": "q_food_1193_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "五个人分六个橙子怎么分才算合理？",
@@ -13600,7 +13631,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1194",
+      "id": "q_food_1194_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "什么糖不能吃？",
@@ -13936,7 +13967,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1204",
+      "id": "q_food_1204_v2",
       "ageGroup": "3-5",
       "category": "food",
       "question": "什么东西尖尖的，长在土里却不是钉子？",
@@ -13992,7 +14023,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1205",
+      "id": "q_food_1205_v2",
       "ageGroup": "3-5",
       "category": "food",
       "question": "什么东西是紫色的，吃起来软软糯糯？",
@@ -14001,7 +14032,7 @@
       "hint": "红烧茄子。",
       "difficulty": 1,
       "reading": "家长陪读",
-      "status": "disabled",
+      "status": "active",
       "legacyIds": [],
       "legacyQuestions": []
     },
@@ -14034,7 +14065,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1208",
+      "id": "q_food_1208_v2",
       "ageGroup": "3-5",
       "category": "food",
       "question": "什么东西三角形，吃起来黏黏的？",
@@ -14062,7 +14093,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1209",
+      "id": "q_food_1209_v2",
       "ageGroup": "3-5",
       "category": "food",
       "question": "什么东西是绿色的，吃起来清清爽爽？",
@@ -15112,7 +15143,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_number_1236",
+      "id": "q_number_1236_v2",
       "ageGroup": "9-10",
       "category": "number",
       "question": "三张分别写有2、1、6的卡片，能否排成一个可以被43除尽的整数？",
@@ -15196,7 +15227,7 @@
       "legacyQuestions": []
     },
     {
-      "id": "q_food_1211",
+      "id": "q_food_1211_v2",
       "ageGroup": "6-8",
       "category": "food",
       "question": "4+4+4+4，猜一种水果？",
